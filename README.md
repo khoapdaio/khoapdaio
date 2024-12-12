@@ -69,8 +69,8 @@ I’m a passionate self-taught developer from Việt Nam
 ### Badges
 
 <b>My GitHub Stats</b>
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; flex-direction: column;">
+<div class="d-flex flex-direction-row" >
+    <div style="width: 60%">
         <a href="http://www.github.com/khoapdaio">
             <img src="https://github-readme-stats.vercel.app/api?username=khoapdaio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khoapdaio's GitHub stats" />
         </a>
@@ -78,7 +78,7 @@ I’m a passionate self-taught developer from Việt Nam
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoapdaio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
         </a>
     </div>
-    <div style="margin-left: 10px;">
+    <div >
         <a href="https://github.com/khoapdaio" >
             <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoapdaio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
         </a>
