@@ -1,17 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phạm Đăng Khoa
-======================================================================================================================================
+<div align="center">
+    <h1>Hi!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Phạm Đang Khoa</h1>
+</div>
+<br>
 
-Software Engineer
-----------------
+
 
 I’m a passionate self-taught developer from Việt Nam
 
 * 🌍 I'm based in Hà Nội
 * ✉️ You can contact me at [khoa.phamdangaio97@gmail.com](mailto:khoa.phamdangaio97@gmail.com)
-
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
-<p align="left">
+<br>
+<p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
@@ -46,7 +47,7 @@ I’m a passionate self-taught developer from Việt Nam
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
     </a>
 </p>
-
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center" >
@@ -65,7 +66,7 @@ I’m a passionate self-taught developer from Việt Nam
 <h2 align="center">🍳 Where to find me 🍳</h2>
 <br>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.github.com/khoapdaio" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
