@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Phạm Đang Khoa</h1>
+    <h1>Hi!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Phạm Đăng Khoa</h1>
 </div>
 <br>
 
