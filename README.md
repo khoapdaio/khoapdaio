@@ -9,6 +9,7 @@ I’m a passionate self-taught developer from Việt Nam
 
 * 🌍 I'm based in Hà Nội
 * ✉️ You can contact me at [khoa.phamdangaio97@gmail.com](mailto:khoa.phamdangaio97@gmail.com)
+* 📓 This is my blog https://khoapd.gitbook.io/khoablog-aio/
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
